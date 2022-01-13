@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: net.plavcak.tutorial
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, asciidoctor, graalvm, gradle, http-client, jib, junit, kotlin, kotlin-application, logback, netty-server, properties, readme, security-annotations, security-oauth2, shade, vertx-pg-client]
